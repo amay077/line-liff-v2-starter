@@ -107,7 +107,7 @@ function registerButtonHandlers() {
     // openWindow call
     document.getElementById('openWindowButton').addEventListener('click', function() {
         liff.openWindow({
-            url: 'https://line.me',
+            url: 'https://line.me/R/ti/p/%40fukuokacity_sdg',
             external: true
         });
     });
